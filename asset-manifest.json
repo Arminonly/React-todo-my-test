@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Arminonly/React-todo-my-test.git/static/css/main.662ce0a8.chunk.css",
+    "main.js": "/Arminonly/React-todo-my-test.git/static/js/main.63aab11f.chunk.js",
+    "main.js.map": "/Arminonly/React-todo-my-test.git/static/js/main.63aab11f.chunk.js.map",
+    "runtime-main.js": "/Arminonly/React-todo-my-test.git/static/js/runtime-main.63d383e9.js",
+    "runtime-main.js.map": "/Arminonly/React-todo-my-test.git/static/js/runtime-main.63d383e9.js.map",
+    "static/js/2.49fccc3c.chunk.js": "/Arminonly/React-todo-my-test.git/static/js/2.49fccc3c.chunk.js",
+    "static/js/2.49fccc3c.chunk.js.map": "/Arminonly/React-todo-my-test.git/static/js/2.49fccc3c.chunk.js.map",
+    "static/js/3.488f79fc.chunk.js": "/Arminonly/React-todo-my-test.git/static/js/3.488f79fc.chunk.js",
+    "static/js/3.488f79fc.chunk.js.map": "/Arminonly/React-todo-my-test.git/static/js/3.488f79fc.chunk.js.map",
+    "index.html": "/Arminonly/React-todo-my-test.git/index.html",
+    "static/css/main.662ce0a8.chunk.css.map": "/Arminonly/React-todo-my-test.git/static/css/main.662ce0a8.chunk.css.map",
+    "static/js/2.49fccc3c.chunk.js.LICENSE.txt": "/Arminonly/React-todo-my-test.git/static/js/2.49fccc3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63d383e9.js",
+    "static/js/2.49fccc3c.chunk.js",
+    "static/css/main.662ce0a8.chunk.css",
+    "static/js/main.63aab11f.chunk.js"
+  ]
+}
